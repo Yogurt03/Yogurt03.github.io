@@ -3,7 +3,7 @@ title: 懒人福利---AutoMux发布
 cover: 'https://cdn.jsdelivr.net/gh/Bcap03/AutoMux@master/Module/automux.png'
 coverWidth: 1440
 coverHeight: 960
-categories: github
+categories: Termux
 tags:
   - github
   - Termux
