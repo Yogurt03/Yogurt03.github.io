@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://bcap03.top
+url: https://bcap03.top
 root: /
 permalink: :category/:abbrlink.html
 abbrlink:
@@ -111,3 +111,5 @@ deploy:
   repo: git@github.com:Bcap03/Bcap03.github.io.git
   branch: master
 - type: baidu_url_submitter
+- type: git
+  repo: git@e.coding.net:bcap03/bcap03.git
