@@ -4,4 +4,4 @@ date: 2020/2/28 23:13:55
 layout: py
 permalink: PY.html
 ---
-# 暂时莫得
+- [![dalaoshi777](https://i.loli.net/2020/02/16/oPUZ4csIgBHDiVG.jpg)](https://dalaoshi777.github.io/ "猫猫秘密基地")
