@@ -16,6 +16,9 @@ coverHeight: 750
 ## 博客相关
 创立于：2020年02月28日
 > 应该是27号创立的才是,不过后面崩过一次
+程序: Termux,Hexo
+主机: GithubPages , CodingPages
+主题：https://nexmoe.com/hexo-theme-nexmoe.html
 
 ## 赞助我
 
