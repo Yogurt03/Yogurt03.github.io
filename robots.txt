@@ -12,4 +12,3 @@ Disallow: /fonts/
 Disallow: /fancybox/
 
 Sitemap: http://bcap03.top/sitemap.xml
-Sitemap: http://bcap03.top/baidusitemap.xml
