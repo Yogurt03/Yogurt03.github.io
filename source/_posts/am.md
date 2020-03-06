@@ -1,5 +1,5 @@
 ---
-title: 懒人福利---AutoMux发布
+title: '"AutoMux"更方便、便捷的为你的Termux安装所需工具'
 cover: 'https://cdn.jsdelivr.net/gh/Bcap03/AutoMux@master/Module/automux.png'
 coverWidth: 1440
 coverHeight: 960
@@ -16,7 +16,7 @@ AutoMux专门为懒人设计,帮懒人一键安装所需工具.
 <!--more-->
 ## 截图
 
-{% asset_img automux.png 工具截图 %}
+{% asset_img automux.jpg 工具截图 %}
 
 ## Github地址
 https://www.github.com/Bcap03/AutoMux/
@@ -28,12 +28,12 @@ https://www.github.com/Bcap03/AutoMux/
 依赖安装：`pip install termcolor`
 
 ### 懒人一键安装
-> curl https://raw.githubusercontent.com/Bcap03/AutoMux/master/install.sh | bash
+> sh -c "$(curl https://raw.githubusercontent.com/Bcap03/AutoMux/master/script/install.sh)"
 
 ### 懒人手动安装
-> git clone https://www.github.com/Bcap03/AutoMux.git
-> cd AutoMux
-> chmod +x install.sh
-> ./install.sh
-> automux
+1. git clone https://www.github.com/Bcap03/AutoMux.git
+2. cd AutoMux
+3. chmod +x install.sh
+4. ./install.sh
+5. automux
 

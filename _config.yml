@@ -113,3 +113,4 @@ deploy:
 - type: baidu_url_submitter
 - type: git
   repo: git@e.coding.net:bcap03/bcap03.git
+  branch: master
