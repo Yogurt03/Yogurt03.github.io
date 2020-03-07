@@ -1,9 +1,9 @@
 ---
 title: 关于博客
 date: 2020/2/28 23:25:25
-cover: https://i.loli.net/2019/07/21/5d33d5dc1531213134.png
-coverWidth: 1200
-coverHeight: 750
+cover: https://cdn.jsdelivr.net/gh/Yogurt03/Yogurt03.github.io@info/background.jpg
+coverWidth: 1767
+coverHeight: 1041
 ---
 不忘初心，方得始终
 <!--more-->
@@ -15,8 +15,10 @@ coverHeight: 750
 
 ## 博客相关
 创立于：2020年03月6日
+
 > 由Bcap03帮忙搭建
-程序: Termux,Hexo
+
+程序: Hexo
 主机: GithubPages
 主题：https://nexmoe.com/hexo-theme-nexmoe.html
 

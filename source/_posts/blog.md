@@ -3,14 +3,14 @@ title: 利用Termux和hexo搭建个人博客
 categories: Termux
 tags:
   - Termux
-  - github
+  - Github
+cover: 'https://cdn.jsdelivr.net/gh/Yogurt03/Yogurt03.github.io@info/background.jpg'
+coverWidth: 1767
+coverHeight: 1041
 abbrlink: 88a3d208
 date: 2020-03-01 08:33:54
-cover: https://i.loli.net/2019/07/21/5d33d5dc1531213134.png
-coverWidth: 1200
-coverHeight: 750
 ---
-转载: `https://bcap03.top/Termux/88a3d208.html`
+转载于：https://bcap03.top/Termux/88a3d208.html
 这几天闲了无聊，就无聊的折腾了一下博客相关的东西。这篇文章就记录一下我自己的搭建过程，防止萌新踩坑。
 <!--more-->
 ## 新建一个github仓库
