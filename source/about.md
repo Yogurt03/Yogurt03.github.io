@@ -11,15 +11,17 @@ coverHeight: 750
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1645079&auto=1&height=66"></iframe>
 
 ## 我
-爱好：美食、编程、剪辑、网络渗透、网络安全。
+爱好：美食、编程、游戏、剪辑、网络渗透、网络安全。
 
 ## 博客相关
-创立于：2020年02月28日
-> 应该是27号创立的才是,不过后面崩过一次
+创立于：2020年03月6日
+> 由Bcap03帮忙搭建
 程序: Termux,Hexo
-主机: GithubPages , CodingPages
+主机: GithubPages
 主题：https://nexmoe.com/hexo-theme-nexmoe.html
 
 ## 赞助我
 
-![赞助我](/image/zz.jpg)
+![微信](/image/wx.jpg)
+![支付宝](/image/zfb.jpg)
+

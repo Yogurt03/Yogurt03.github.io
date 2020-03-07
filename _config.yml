@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Bcap03 -鹏鹏吖
+title: Yogurt03 -酸奶吖
 subtitle: ''
-description: 'Bcap03的博客'
-keywords: Bcap03
-author: Bcap03
+description: 'Yogurt03的博客'
+keywords: Yogurt03
+author: Yogurt03
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://bcap03.top
+url: https://yogurt03.github.io/
 root: /
 permalink: :category/:abbrlink.html
 abbrlink:
@@ -98,19 +98,9 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: nexmoe
 
-baidu_url_submit:
-  count: 5 
-  host: https://bcap03.top
-  token: SnJ4rA9lsGLSDYQh
-  path: baidu_urls.txt 
-
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 - type: git
-  repo: git@github.com:Bcap03/Bcap03.github.io.git
-  branch: master
-- type: baidu_url_submitter
-- type: git
-  repo: git@e.coding.net:bcap03/bcap03.git
+  repo: https://github.com/Yogurt03/Yogurt03.github.io.git
   branch: master

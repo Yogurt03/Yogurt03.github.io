@@ -1,8 +1,8 @@
 ---
 title: '"AutoMux"更方便、便捷的为你的Termux安装所需工具'
-cover: 'https://cdn.jsdelivr.net/gh/Bcap03/AutoMux@master/Module/automux.png'
-coverWidth: 1440
-coverHeight: 960
+cover: /image/toutu.jpg
+coverWidth: 1728
+coverHeight: 972
 categories: Termux
 tags:
   - github
@@ -12,7 +12,7 @@ abbrlink: 4457f156
 date: 2020-02-28 22:35:07
 ---
 AutoMux专门为懒人设计,帮懒人一键安装所需工具.
-作者就是我自己,本来呢是为了我和酸奶两个懒人所写,上传到github后想了想,都上传到github了那就独乐乐不如众乐乐吧!
+作者: Bcap03
 <!--more-->
 ## 截图
 
