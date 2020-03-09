@@ -1,6 +1,6 @@
 ---
 title: 关于博客
-date: 2020/2/28 23:25:25
+date: 2020/3/06 23:25:25
 cover: https://cdn.jsdelivr.net/gh/Yogurt03/Yogurt03.github.io@info/background.jpg
 coverWidth: 1767
 coverHeight: 1041

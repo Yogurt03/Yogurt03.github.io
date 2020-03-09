@@ -9,7 +9,7 @@ tags:
   - Termux
   - AutoMux
 abbrlink: 72d5d3da
-date: 2020-02-28 22:35:07
+date: 2020-03-06 22:35:07
 ---
 AutoMux专门为懒人设计,帮懒人一键安装所需工具.
 作者:Bcap03

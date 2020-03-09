@@ -104,3 +104,6 @@ deploy:
 - type: git
   repo: https://github.com/Yogurt03/Yogurt03.github.io.git
   branch: master
+- type: git
+  repo: https://e.coding.net/yogurt03/yogurt03.git
+  branch: master

@@ -48,7 +48,7 @@ post_asset_folder: true
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
@@ -103,4 +103,7 @@ theme: nexmoe
 deploy:
 - type: git
   repo: https://github.com/Yogurt03/Yogurt03.github.io.git
+  branch: master
+- type: git
+  repo: https://e.coding.net/yogurt03/yogurt03.git
   branch: master
