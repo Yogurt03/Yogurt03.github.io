@@ -76,14 +76,14 @@ analytics: # 统计系统，目前支持 Google analytics.js 统计、Google Tag
   baidu_site_id: #<ID>
   gtm_container_id: #<ID>
 
-comment: gitalk # 评论框，目前支持 gitalk,gitment,valine,disqus,disqusjs,changyan,livere,DiscussBot
+comment: valine # 评论框，目前支持 gitalk,gitment,valine,disqus,disqusjs,changyan,livere,DiscussBot
 
 gitalk:
   admin: Yogurt03 # 拥有对该repo进行操作的 GitHub username
   owner: Yogurt03 # 持有该 repo 的 GitHub username
   repo: yogurt03.github.io # 存放评论的 issue 所在的 repo
-  clientID: 9b580af54b959cbaccfd # GitHub Client ID
-  clientSecret: 0828b04f8a504eb86a5bcc4863650f5134287a3d # GitHub Client Secret
+  clientID: 3d38d2368f1299f8d314 # GitHub Client ID
+  clientSecret: e694d81a82202da0680ff7430744bcd08835d270 # GitHub Client Secret
 
 gitment:
   owner: nexmoe # 持有该 repo 的 GitHub username
@@ -92,8 +92,8 @@ gitment:
   clientSecret: 43e99fa852795c9a7b3eb924b2558c64b84bbdeb # GitHub Client Secret
 
 valine: 
-  appId: E5hhqxYuL3vRVTqj6KS4Se95-gzGzoHsz # leancloud application app id
-  appKey: ugY0WUx3uN2NoGVxvyRzNSo7 # leancloud application app key
+  appId: RWIDHjBBrG1EV5MMnF48Ac6O-gzGzoHsz # valine application app id
+  appKey: bCavMNCCBE1Ux0pLG3yKmFWB # leancloud application app key
 
 disqus:
   shortname: <shortname> # 你的 Disqus shortname
